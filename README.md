@@ -1,73 +1,31 @@
-# Welcome to your Lovable project
+🔥 Spark Fund – A Micro-Donation Platform on ICP
+Overview:
+Spark Fund is a web-based platform that allows users to support creators, causes, and communities through small, impactful donations on the Internet Computer (ICP) blockchain.
 
-## Project info
+💡 Key Features:
+🚀 One-Tap Micro-Donations
+Donate ICP or ckBTC quickly to your favorite creators or categories (like Health, Education, etc.).
+🌍 Public Impact Feed
+Shows a live stream of donations, messages, and supporter impact across the platform.
+💬 Messages + Support Notes
+Supporters can leave public or anonymous encouragement messages when they donate.
+📊 Leaderboards
+Highlights top donors and popular creators, adding a gamified feel to donations.
+🎯 Categories & Creators
+Browse causes like:
+Education
+Health
+Creatives
+Open Source
+Others
+🔐 Wallet Login
+Uses Internet Identity (II) or Plug Wallet for secure authentication and payments.
+📱 Responsive Design
+Works well on desktop and mobile.
 
-**URL**: https://lovable.dev/projects/7a679962-608b-44e8-ac42-0d5d671c8d32
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/7a679962-608b-44e8-ac42-0d5d671c8d32) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7a679962-608b-44e8-ac42-0d5d671c8d32) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🛠️ Built With:
+Frontend: React + Next.js (Vercel hosting)
+Blockchain: Internet Computer (ICP)
+Payments: ICP / ckBTC
+Auth: Internet Identity or Plug
+UI: Tailwind CSS 
